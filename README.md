@@ -1,4 +1,4 @@
-# demo_project
+# Flutter demo project
 
 A new Flutter project based on the starter tutorial of Google. You can find the tutorial here:
 
