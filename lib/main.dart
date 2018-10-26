@@ -12,7 +12,6 @@ class MyApp extends StatelessWidget { // The app extends StatelessWidget which m
       theme: new ThemeData(
         primaryColor: Colors.white,
         scaffoldBackgroundColor: Colors.teal,
-        primaryTextTheme: Colors.white,
       ),
       home: RandomWords(),
     );
